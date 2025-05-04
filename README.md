@@ -16,3 +16,7 @@ rozvaděčový štítek
 výpočet oteplení_  
 
 ---
+
+[dokumentaci](https://github.com/eRozvadec/doc/1_schema.pdf)
+
+[dokumentaci](https://github.com/eRozvadec/doc/blob/main/1_schema.pdf)
